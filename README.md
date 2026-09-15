@@ -167,7 +167,8 @@ Users can select different filter values to instantly update the dashboard chart
 
 ### Main Dashboard
 
-![E-Commerce Sales Dashboard](dashboard.png)
+![<img width="686" height="533" alt="project2" src="https://github.com/user-attachments/assets/c810ef77-afa7-4012-842c-c935f70dc7ed" />
+]
 
 ### Customer & Brand Analysis
 
