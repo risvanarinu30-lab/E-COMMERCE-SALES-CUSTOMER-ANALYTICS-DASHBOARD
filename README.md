@@ -172,7 +172,8 @@ Users can select different filter values to instantly update the dashboard chart
 
 ### Customer & Brand Analysis
 
-![Customer and Brand Analysis](analysis.png)
+![<img width="761" height="540" alt="project1" src="https://github.com/user-attachments/assets/740c1a13-fe73-4863-8893-2601ce804fa0" />
+]
 
 > **Note:** Update the image filenames above according to the image names stored in your GitHub repository.
 
